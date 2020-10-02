@@ -1,8 +1,8 @@
 # Site settings
-title: Carson Herness
+title: "Carson Herness"
 email: carsonherness@gmail.com
 url: https://github.com/CarsonHerness/
-description: ""
+description: "Personal website for Carson Herness"
 keywords:
 skills: "Software Developer"
 meta_author: Herness Carson
@@ -31,7 +31,6 @@ color:
 footer:
   copyright: Carson Herness
   social: CarsonHerness
-  credits: startbootstrap.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
